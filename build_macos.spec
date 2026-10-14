@@ -4,7 +4,7 @@
 block_cipher = None
 
 a = Analysis(
-    ['MusicTager.py'],  # 你的主程序文件名，请根据实际情况修改
+    ['main.py'],  # 你的主程序文件名，请根据实际情况修改
     pathex=[],
     binaries=[],
     datas=[('image-folder', 'image-folder')],  # 如果程序需要读取图片资源，请包含进来
