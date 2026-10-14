@@ -34,5 +34,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: MusicTagger-macOS-arm64
-        path: dist/MusicTagger.app
+        name: MusicTag-macOS-arm64
+        path: dist/MusicTag.app
