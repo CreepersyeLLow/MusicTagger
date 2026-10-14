@@ -35,4 +35,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: MusicTag-macOS-arm64
-        path: dist/MusicTag.app
+        path: dist/MusicTagger.app
